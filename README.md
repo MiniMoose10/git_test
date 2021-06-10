@@ -1,1 +1,0 @@
-This is a project to replicate the Google Homepage. This project uses HTML and CSS which was learned from a web development course on FreeCodeCamp.
